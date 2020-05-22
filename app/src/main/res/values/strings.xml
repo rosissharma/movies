@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="button_search">Search</string>
+    <string name="error_internet">:/\n\nOops, Something\'s Wrong.\nPlease Check Your Internet Connection!</string>
+</resources>
