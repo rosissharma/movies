@@ -4,3 +4,13 @@ This movie app allows users to view the top-rated movies in TMDb (The Movie Data
 ![Home Page](screenshots/home.png)
 ![About Page](screenshots/about.png)
 ![Details](screenshots/detail.png)
+
+### FRAMEWORKS USED
+* Lifecycle
+* Recyclerview
+* Cardview
+* Retrofit2
+* Gson
+* Glide
+
+:octocat:
